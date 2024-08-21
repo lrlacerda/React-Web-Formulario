@@ -1,10 +1,5 @@
 # React-Web-Formulario
 
-### **Estrutura Sugerida para o README.md**
-
-markdown
-# Nome do Projeto
-
 O Gerenciador de Tarefas é um aplicativo simples e intuitivo desenvolvido com React para ajudar você a organizar e gerenciar suas tarefas diárias de forma eficiente. Ideal para quem precisa de uma solução prática para acompanhar compromissos, projetos e tarefas do dia a dia.
 
 ## Tecnologias Utilizadas
