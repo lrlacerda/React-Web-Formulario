@@ -7,8 +7,6 @@ markdown
 
 O Gerenciador de Tarefas é um aplicativo simples e intuitivo desenvolvido com React para ajudar você a organizar e gerenciar suas tarefas diárias de forma eficiente. Ideal para quem precisa de uma solução prática para acompanhar compromissos, projetos e tarefas do dia a dia.
 
-![App Screenshot](link-para-imagem)
-
 ## Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
@@ -35,11 +33,11 @@ O Gerenciador de Tarefas é um aplicativo simples e intuitivo desenvolvido com R
 
 1. Clone o repositório:
 bash
-    git clone https://github.com/usuario/nome-do-repositorio.git
+    git clone https://github.com/usuario/React-Web-Formulario.git
     
 2. Navegue até o diretório do projeto:
 bash
-    cd nome-do-repositorio
+    cd React-Web-Formulario
     
 3. Instale as dependências:
 bash
